@@ -1,0 +1,3 @@
+rootProject.name = 'BarcodeReader'
+
+include ':app'
