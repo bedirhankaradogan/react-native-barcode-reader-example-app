@@ -10,11 +10,13 @@ I've just created an example project with React Native which could be used for b
 
 ### Demo
 
-![](http://www.codenlife.net/images/github/barcode-reader.gif)
+[demo](https://www.dropbox.com/s/rdjc6zx1iyqf77z/barcode-reader.gif?raw=1)
 
 #### Notes
 
 1. I haven't tested it in IOS yet.
 2. Because of I haven't tested it in IOS, I can't be sure about react-native-camera installation for IOS. So you might be need to make additional settings for IOS.
 
-[Bedirhan Karadoğan](https://github.com/bedirhankaradogan)
+### Lıcence
+
+MIT © [Bedirhan Karadoğan](http://bedirhank.com)
