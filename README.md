@@ -12,7 +12,7 @@ I've just created an example project with React Native which could be used for b
 
 [Demo](https://drive.google.com/uc?export=view&id=1Rh4SRYdOVg9UYXxV6tBD2g4_wXBSy3Ld)
 
-#### Notes
+### Notes
 
 1. I haven't tested it in IOS yet.
 2. Because of I haven't tested it in IOS, I can't be sure about react-native-camera installation for IOS. So you might be need to make additional settings for IOS.
