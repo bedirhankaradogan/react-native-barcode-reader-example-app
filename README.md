@@ -10,7 +10,7 @@ I've just created an example project with React Native which could be used for b
 
 ### Demo
 
-![demo](https://www.dropbox.com/s/rdjc6zx1iyqf77z/barcode-reader.gif?raw=1)
+[Demo](https://www.dropbox.com/s/rdjc6zx1iyqf77z/barcode-reader.gif?raw=1)
 
 #### Notes
 
