@@ -20,7 +20,3 @@ I've just created an example project with React Native which could be used for b
 ### Lıcence
 
 MIT ©
-
-### Support
-
-[Support me on Patreon](https://www.patreon.com/bedirhankaradogan)
